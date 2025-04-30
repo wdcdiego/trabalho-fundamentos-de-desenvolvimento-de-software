@@ -1,0 +1,79 @@
+body {
+    background-color: #80d39b;
+    font-family: Arial, sans-serif;
+}
+
+.tituloPrincipal {
+    font-size: 2em;
+    color: #ffffff;
+    text-align: center;
+}
+
+.bio {
+    text-align: justify;
+    font-size: 18px;
+}
+
+.Dualsense {
+    width: 50%;
+    height: auto;
+    border-radius: 40px;
+}
+
+.tabela-paises {
+    width: 30%;
+    border-spacing: 10px;
+    border-radius: 10px;
+    background-color: rgb(102, 184, 184);
+
+
+}
+
+.tabelaText {
+    font-size: 20px;
+    text-align: center;
+    background-color: aliceblue;
+
+}
+
+.ChileImg {
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    background-color: aliceblue;
+    ;
+
+}
+
+.SuicaImg {
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+.JapaoImg {
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+.link {
+    color: #000000;
+    font-size: 20px;
+
+}
+
+.link:hover {
+    color: #fffdfd;
+    font-size: 20px;
+
+}
+
+.mensagem {
+    display: none;
+    margin-top: 10px;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+}
